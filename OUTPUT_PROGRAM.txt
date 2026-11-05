@@ -1,0 +1,34 @@
+MONITORING KUALITAS SINYAL / SNR
+------------------------------------------------
+No   Nilai SNR (dB)      Kategori
+------------------------------------------------
+1    5                   RENDAH
+2    8                   RENDAH
+3    11                  BAIK
+4    14                  BAIK
+5    18                  BAIK
+6    22                  SANGAT BAIK
+7    27                  SANGAT BAIK
+8    9                   RENDAH
+9    16                  BAIK
+10   24                  SANGAT BAIK
+11   12                  BAIK
+12   30                  SANGAT BAIK
+13   7                   RENDAH
+14   20                  SANGAT BAIK
+15   15                  BAIK
+16   10                  BAIK
+17   19                  BAIK
+18   20                  SANGAT BAIK
+19   0                   RENDAH
+20   35                  SANGAT BAIK
+
+RINGKASAN HASIL
+------------------------------
+Total data       : 20
+RENDAH           : 5 data
+BAIK             : 8 data
+SANGAT BAIK      : 7 data
+Rata-rata        : 16.10 dB
+Maksimum         : 35 dB
+Minimum          : 0 dB
